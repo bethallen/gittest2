@@ -1,0 +1,4 @@
+This is a sample file
+with just a few lines.
+Line 3 is diff
+End of text in file.
